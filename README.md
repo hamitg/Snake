@@ -11,3 +11,5 @@ as snakes you want while competing with advanced computer snake(s).
 - Y -> Slows down the game.
 - O -> Sacrifice one of your snakes for computer.
 - M -> Capture one of advanced computer snakes.
+
+Note : In order to run the programme, /jars/canvas2.jar should be added as an external library.
